@@ -22,13 +22,13 @@ The workshop will take place from 9:00 to 17:00 CEST on Sunday the 25th of Septe
 | 10:30-10:45  | Coffee break               |                        |
 | 10:45-11:30  | Decomposition and BSS      | Francisco de la Peña   |
 | 11:30-12:15  | Curve fitting              | Francisco de la Peña   |
-| 12:15-13:00  | EDX                        | Katherine McArthur     |
+| 12:15-13:00  | EDX                        | Katherine MacArthur    |
 | 13:00-13:45  | Lunch break                |                        |
 | 13:45-14:30  | EELS                       | ?                      |
 | 14:30-15:15  | Lumispy                    | Gunnar Kusch           |
 | 15:15-15:30  | Coffee break               |                        |
 | 15:30-16:15  | Lazy                       | Magnus Nord            |
-| 16:15-17:00  | Pyxem                      | ?                      |
+| 16:15-17:00  | Pyxem                      | Magnus Nord            |
 
 
 ## Software installation
@@ -47,7 +47,7 @@ If you prefer to customize your installation, we suggest installing a conda dist
 
 
 ```bash
-conda install  nb_conda_kernels jupyterlab start_jupyter_cm -c conda-forge
+conda install nb_conda_kernels jupyterlab start_jupyter_cm -c conda-forge
 conda create -n hyperspy_EMC2024 python=3.12 hyperspy pyxem ipympl exspy lumispy ipykernel -c conda-forge
 ```
 
@@ -56,8 +56,3 @@ To add Jupyter to the context menu of your file browser execute the following co
 ```bash
 start_jupyter_cm
 ```
-
-
-
-
-
