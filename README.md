@@ -47,8 +47,8 @@ If you prefer to customize your installation, we suggest installing a conda dist
 
 
 ```bash
-conda install nb_conda_kernels jupyterlab start_jupyter_cm -c conda-forge
-conda create -n hyperspy_EMC2024 python=3.12 hyperspy pyxem ipympl exspy lumispy ipykernel -c conda-forge
+conda install nb_conda_kernels jupyterlab start_jupyter_cm ipympl -c conda-forge
+conda create -n hyperspy_EMC2024 python=3.11 hyperspy pyxem ipympl exspy lumispy ipykernel -c conda-forge
 ```
 
 To add Jupyter to the context menu of your file browser execute the following command:
