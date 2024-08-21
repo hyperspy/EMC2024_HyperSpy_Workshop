@@ -11,23 +11,22 @@ Haderup auditoriet, Panum Instituttet, Blegdamsvej 3, 2200 Kbh. N. (Careful, not
 
 ### Schedule
 
-The workshop will take place from 9:00 to 17:00 CEST on Sunday the 25th of September. Coffee and tea will be served at the venue from 8:30 to 9:00.
-
+The workshop will take place from 9:00 to 17:00 CEST on Sunday the 25th of September.
 
 | Time         | Activity                   | Presenter              |
 |--------------|----------------------------|------------------------|
 | 8:30-9:00    | Welcome coffee/tea         |                        |
-| 9:00-9:15    | Intro talk                 | Francisco de la Peña   |
-| 9:15-10:30   | Intro tutorial             | Magnus Nord            |
+| 9:00-9:15    | Introduction talk          | Francisco de la Peña   |
+| 9:15-10:30   | Getting started            | Magnus Nord            |
 | 10:30-10:45  | Coffee break               |                        |
 | 10:45-11:30  | Decomposition and BSS      | Francisco de la Peña   |
 | 11:30-12:15  | Curve fitting              | Francisco de la Peña   |
 | 12:15-13:00  | EDX                        | Katherine MacArthur    |
 | 13:00-13:45  | Lunch break                |                        |
 | 13:45-14:30  | EELS                       | Francisco de la Peña   |
-| 14:30-15:15  | Lumispy                    | Gunnar Kusch           |
+| 14:30-15:15  | LumiSpy                    | Gunnar Kusch           |
 | 15:15-15:30  | Coffee break               |                        |
-| 15:30-16:15  | Lazy                       | Magnus Nord            |
+| 15:30-16:15  | Lazy signals for Big Data  | Magnus Nord            |
 | 16:15-17:00  | Pyxem                      | Magnus Nord            |
 
 
