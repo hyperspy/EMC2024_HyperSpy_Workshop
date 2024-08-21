@@ -24,7 +24,7 @@ The workshop will take place from 9:00 to 17:00 CEST on Sunday the 25th of Septe
 | 11:30-12:15  | Curve fitting              | Francisco de la Peña   |
 | 12:15-13:00  | EDX                        | Katherine MacArthur    |
 | 13:00-13:45  | Lunch break                |                        |
-| 13:45-14:30  | EELS                       | ?                      |
+| 13:45-14:30  | EELS                       | Francisco de la Peña   |
 | 14:30-15:15  | Lumispy                    | Gunnar Kusch           |
 | 15:15-15:30  | Coffee break               |                        |
 | 15:30-16:15  | Lazy                       | Magnus Nord            |
