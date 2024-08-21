@@ -3,13 +3,12 @@
 Training material used during the 2024 HyperSpy Workshop at the European Microscopy Congress 2024 in Copenhagen.
 
 
-## Tutorial venue and schedule
 
-### Venue
+## Venue
 
 Haderup auditoriet, Panum Instituttet, Blegdamsvej 3, 2200 Kbh. N. (Careful, not CFIM, but Haderup auditoriet).
 
-### Schedule
+## Agenda
 
 The workshop will take place from 9:00 to 17:00 CEST on Sunday the 25th of September.
 
@@ -28,6 +27,16 @@ The workshop will take place from 9:00 to 17:00 CEST on Sunday the 25th of Septe
 | 15:15-15:30  | Coffee break               |                        |
 | 15:30-16:15  | Lazy signals for Big Data  | Magnus Nord            |
 | 16:15-17:00  | Pyxem                      | Magnus Nord            |
+
+## Instructors
+
+- Francisco de la Peña (University of Lille)
+- Gunnar Kusch (University of Cambridge)
+- Hedda Christine Soland (Lunds University)
+- Katherine MacArthur (Oxford Instruments)
+- Kristian Tveitstol (NTNU)
+- Magnus Nord (NTNU)
+- Sivert J.V. Dagenborg (NTNU)
 
 
 ## Software installation
