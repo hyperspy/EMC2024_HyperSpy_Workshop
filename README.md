@@ -56,3 +56,10 @@ To add Jupyter to the context menu of your file browser execute the following co
 ```bash
 start_jupyter_cm
 ```
+
+To use HyperSpy in JupyterLab, start Jupyter Lab and choose the `Python [conda env:hyperspy_EMC2024]` kernel. Alternatively, start JupyterLab from the `hyperspy_EMC2024` environment as follows:
+
+```bash
+conda activate hyperspy_EMC2024
+jupyter lab
+```
