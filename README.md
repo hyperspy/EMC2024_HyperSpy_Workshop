@@ -38,7 +38,7 @@ To use the Jupyter Notebooks in this repository, you need to install some softwa
 
 ### Simple installation instructions (best for Python beginners)
 
-The easiest way to install all the software required to run the Jupyter Notebooks in this repository is to [install the HyperSpy Bundle](https://hyperspy.org/hyperspy-bundle/).
+The easiest way to install all the software required to run the Jupyter Notebooks in this repository is to [install the HyperSpy Bundle](https://hyperspy.org/hyperspy-bundle/install.html) that you can download from [here](https://github.com/hyperspy/hyperspy-bundle/releases/latest).
 
 
 ### Advanced installation instructions (for advanced users)
