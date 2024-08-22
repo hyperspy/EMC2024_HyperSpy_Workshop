@@ -20,9 +20,9 @@ The workshop will take place from 9:00 to 17:00 CEST on Sunday the 25th of Septe
 | 10:30-10:45  | Coffee break                                                               |                        |
 | 10:45-11:30  | 2. Decomposition and BSS                                                   | Francisco de la Peña   |
 | 11:30-12:15  | 3. Curve fitting                                                           | Francisco de la Peña   |
-| 12:15-13:00  | 4. EDX with [EXSpy](https://hyperspy.org/exspy/)                           | Katherine MacArthur    |
+| 12:15-13:00  | 4. EDX with [eXSpy](https://hyperspy.org/exspy/)                           | Katherine MacArthur    |
 | 13:00-13:45  | Lunch break                                                                |                        |
-| 13:45-14:30  | 5. EELS with [EXSpy](https://hyperspy.org/exspy/)                          | Francisco de la Peña   |
+| 13:45-14:30  | 5. EELS with [eXSpy](https://hyperspy.org/exspy/)                          | Francisco de la Peña   |
 | 14:30-15:15  | 6. Cathodoluminescence with [LumiSpy](https://docs.lumispy.org)            | Gunnar Kusch           |
 | 15:15-15:30  | Coffee break                                                               |                        |
 | 15:30-16:15  | 7. Lazy signals for Big Data                                               | Magnus Nord            |
