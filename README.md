@@ -12,21 +12,21 @@ Haderup auditoriet, Panum Instituttet, Blegdamsvej 3, 2200 Kbh. N. (Careful, not
 
 The workshop will take place from 9:00 to 17:00 CEST on Sunday the 25th of September.
 
-| Time         | Activity                           | Presenter              |
-|--------------|------------------------------------|------------------------|
-| 8:30-9:00    | Welcome coffee/tea                 |                        |
-| 9:00-9:15    | Introduction talk                  | Francisco de la Peña   |
-| 9:15-10:30   | 1. Getting started                 | Magnus Nord            |
-| 10:30-10:45  | Coffee break                       |                        |
-| 10:45-11:30  | 2. Decomposition and BSS           | Francisco de la Peña   |
-| 11:30-12:15  | 3. Curve fitting                   | Francisco de la Peña   |
-| 12:15-13:00  | 4. EDX with EXSpy                  | Katherine MacArthur    |
-| 13:00-13:45  | Lunch break                        |                        |
-| 13:45-14:30  | 5. EELS with EXSpy                 | Francisco de la Peña   |
-| 14:30-15:15  | 6. Cathodoluminescenc with LumiSpy | Gunnar Kusch           |
-| 15:15-15:30  | Coffee break                       |                        |
-| 15:30-16:15  | 7. Lazy signals for Big Data       | Magnus Nord            |
-| 16:15-17:00  | 8. 4D-STEM wity Pyxem              | Magnus Nord            |
+| Time         | Activity                            | Presenter              |
+|--------------|-------------------------------------|------------------------|
+| 8:30-9:00    | Welcome coffee/tea                  |                        |
+| 9:00-9:15    | Introduction talk                   | Francisco de la Peña   |
+| 9:15-10:30   | 1. Getting started                  | Magnus Nord            |
+| 10:30-10:45  | Coffee break                        |                        |
+| 10:45-11:30  | 2. Decomposition and BSS            | Francisco de la Peña   |
+| 11:30-12:15  | 3. Curve fitting                    | Francisco de la Peña   |
+| 12:15-13:00  | 4. EDX with EXSpy                   | Katherine MacArthur    |
+| 13:00-13:45  | Lunch break                         |                        |
+| 13:45-14:30  | 5. EELS with EXSpy                  | Francisco de la Peña   |
+| 14:30-15:15  | 6. Cathodoluminescence with LumiSpy | Gunnar Kusch           |
+| 15:15-15:30  | Coffee break                        |                        |
+| 15:30-16:15  | 7. Lazy signals for Big Data        | Magnus Nord            |
+| 16:15-17:00  | 8. 4D-STEM wity Pyxem               | Magnus Nord            |
 
 The numbered activities correspond to the tutorials in the folders of this repository.
 
