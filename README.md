@@ -34,7 +34,7 @@ The numbered activities correspond to the tutorials in the folders of this repos
 
 - Francisco de la Peña (University of Lille)
 - Gunnar Kusch (University of Cambridge)
-- Hedda Christine Soland (Lunds University)
+- Hedda Christine Soland (Lund University)
 - Katherine MacArthur (Oxford Instruments)
 - Kristian Tveitstol (NTNU)
 - Magnus Nord (NTNU)
