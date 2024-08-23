@@ -40,6 +40,9 @@ The numbered activities correspond to the tutorials in the folders of this repos
 - Magnus Nord (NTNU)
 - Sivert J.V. Dagenborg (NTNU)
 
+## Downloading large files
+
+Download the zip-file from this link: https://filesender.sikt.no/?s=download&token=000ee6a7-008e-4a63-aada-67706ef762bc
 
 ## Software installation
 
