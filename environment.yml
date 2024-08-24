@@ -1,0 +1,13 @@
+name: hyperspy
+channels:
+  - conda-forge
+dependencies:
+  - hyperspy-base>=2.0
+  - hyperspy-gui-ipywidgets>=2.0
+  - numba
+  - numexpr
+  - ipympl
+  - scikit-learn
+  - exspy
+  - pyxem
+  - lumispy
