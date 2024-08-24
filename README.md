@@ -1,8 +1,12 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hyperspy/EMC2024_HyperSpy_Workshop/HEAD)
+
 # EMC2024 HyperSpy Workshop
 
 Training material used during the 2024 HyperSpy Workshop at the European Microscopy Congress 2024 in Copenhagen.
 
 ## ✨ Try it in your browser ✨
+
+(Not working for the pyxem and eXSpy notebooks)
 
 ➡️ **[https://francisco-dlp.github.io/EMC2024_HyperSpy_Workshop_jupyterlite/](https://francisco-dlp.github.io/EMC2024_HyperSpy_Workshop_jupyterlite/)**
 
