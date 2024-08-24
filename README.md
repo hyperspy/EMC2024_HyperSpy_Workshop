@@ -4,7 +4,7 @@ Training material used during the 2024 HyperSpy Workshop at the European Microsc
 
 ## ✨ Try it in your browser ✨
 
-➡️ **[https://hyperspy.org/jupyterlite-hyperspy](https://francisco-dlp.github.io/EMC2024_HyperSpy_Workshop_jupyterlite/)**
+➡️ **[https://francisco-dlp.github.io/EMC2024_HyperSpy_Workshop_jupyterlite/](https://francisco-dlp.github.io/EMC2024_HyperSpy_Workshop_jupyterlite/)**
 
 ## Venue
 
