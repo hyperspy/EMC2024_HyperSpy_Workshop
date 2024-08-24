@@ -2,7 +2,9 @@
 
 Training material used during the 2024 HyperSpy Workshop at the European Microscopy Congress 2024 in Copenhagen.
 
+## ✨ Try it in your browser ✨
 
+➡️ **[https://francisco-dlp.github.io/EMC2024_HyperSpy_Workshop_jupyterlite/](https://francisco-dlp.github.io/EMC2024_HyperSpy_Workshop_jupyterlite/)**
 
 ## Venue
 
